@@ -37,14 +37,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/eman-mohammed-7955b3286/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=rose_pine" alt="Layout with last medium posts"  />
 </div>
