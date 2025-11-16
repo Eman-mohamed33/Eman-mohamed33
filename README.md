@@ -53,20 +53,12 @@ I’m **Eman Gesraha**, a **Fresh Node.js Backend Developer** passionate about b
 - Authentication & roles  
 - MySQL + Sequelize  
 - Admin product management  
-
-### 🔹 Blog App
-![Blog App](https://img.shields.io/badge/Repo-Coming_Soon-lightgrey?style=flat-square)
-- CRUD blog posts  
-- Categories & comments  
-- SEO-friendly structure  
-- MongoDB + Express clean architecture  
-
 ---
 
 ## 📞 Contact Me
 
-- 📧 **Email:** eman.gesraha13@gmail.com
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/eman-gesraha/ 
+- 📧 **Email:** your-email@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/your-profile  
 
 ---
 
@@ -74,6 +66,15 @@ I’m **Eman Gesraha**, a **Fresh Node.js Backend Developer** passionate about b
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Eman-mohamed33&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-mohamed33&layout=compact&count_private=true&theme=gruvbox" />
+
+<br clear="both"/>
+
+### 🔹 Pinned Repos
+
+<a href="https://github.com/Eman-mohamed33/SarahahApp" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eman-mohamed33&repo=SarahahApp&theme=gruvbox" /></a>
+<a href="https://github.com/Eman-mohamed33/Assignment13" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eman-mohamed33&repo=Assignment13&theme=gruvbox" /></a>
+<br/>
+<a href="https://github.com/Eman-mohamed33/Assignment21" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eman-mohamed33&repo=Assignment21&theme=gruvbox" /></a>
 
 ---
 
