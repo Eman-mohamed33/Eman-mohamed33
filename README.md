@@ -57,8 +57,8 @@ I’m **Eman Gesraha**, a **Fresh Node.js Backend Developer** passionate about b
 
 ## 📞 Contact Me
 
-- 📧 **Email:** your-email@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/your-profile  
+- 📧 **Email:** eman.gesraha13@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/eman-gesraha/
 
 ---
 
