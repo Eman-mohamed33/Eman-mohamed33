@@ -26,19 +26,19 @@ I’m **Eman Gesraha**, a **Fresh Node.js Backend Developer** passionate about b
 
 ## 📌 Featured Projects
 
-### 🔹 Saraha App (Anonymous Messaging Platform)
+### 🔹 [Saraha App](https://github.com/Eman-mohamed33/SarahahApp.git) (Anonymous Messaging Platform)
 - Built RESTful APIs using **Node.js + Express**
 - Authentication using **JWT**
 - MongoDB + Mongoose for database
 - Secure anonymous messaging system
 
-### 🔹 Social Media App
+### 🔹 [Social Media App](https://github.com/Eman-mohamed33/Assignment13.git)
 - Users, posts, comments, likes system  
 - Real-time notifications using **Socket.IO**  
 - Follows / Unfollow system  
 - MongoDB backend with clean modular structure  
 
-### 🔹 E-commerce App
+### 🔹 [E-commerce App](https://github.com/Eman-mohamed33/Assignment21.git)
 - Full product + cart + orders system  
 - Authentication & roles  
 - MySQL + Sequelize  
@@ -48,7 +48,8 @@ I’m **Eman Gesraha**, a **Fresh Node.js Backend Developer** passionate about b
 - CRUD blog posts  
 - Categories & comments  
 - SEO-friendly structure  
-- MongoDB + Express clean architecture
+- MongoDB + Express clean architecture  
+- **Repository:** *Coming Soon*
 
 ---
 
