@@ -4,23 +4,32 @@ I’m **Eman Gesraha**, a **Fresh Node.js Backend Developer** passionate about b
 
 ---
 
-## 🚀💻 Technologies & Tools
+## 🚀💻 Languages and Tools:
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express)
-  ![NestJS](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
-  ![Mongoose](https://img.shields.io/badge/Mongoose-black?style=flat-square&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-black?style=flat-square&logo=sequelize)
-  ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
-  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+<p>
+  <a href="https://github.com/Eman-mohamed33">
+    <img width="50%" align="right" alt="Eman's github stats" src="https://github-readme-stats.vercel.app/api?username=Eman-mohamed33&show_icons=true&hide_border=true" />
+  </a>
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postman/postman-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jsonwebtokens/jsonwebtokens-ar21.svg"></code>
+</p>
 
 ---
 
@@ -60,11 +69,4 @@ I’m **Eman Gesraha**, a **Fresh Node.js Backend Developer** passionate about b
 
 ---
 
-## ⚡ GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Eman-mohamed33&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-mohamed33&layout=compact&count_private=true&theme=gruvbox" />
-
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Eman-mohamed33)
+![Vis]()
