@@ -79,7 +79,7 @@ I’m **Eman Gesraha**, a **Junior Node.js Backend Developer** passionate about 
 ## 📝 Personal Bio
 
 👩‍💻 I'm a **Fresh Node.js Backend Developer** looking for **internships/training opportunities**.  
-🌱 Currently learning **NestJS** and **Docker**.  
+🌱 Currently learning **NestJS**.  
 🚀 Passionate about teamwork & collaboration.  
 💬 Ask me about **Node.js, REST APIs, MySQL, MongoDB**.  
 ⚡ Fun fact: I love building clean, maintainable backend systems.
@@ -89,29 +89,6 @@ I’m **Eman Gesraha**, a **Junior Node.js Backend Developer** passionate about 
 ## 📞 Contact Me
 📧 **Email:** eman.gesraha13@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/eman-gesraha/ 
-
----
-
-## ⚡ GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Eman-mohamed33&show_icons=true&count_private=true&theme=gruvbox" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-mohamed33&layout=compact&count_private=true&theme=gruvbox" />
-<br clear="both"/>
-
----
-
-## 🔹 Pinned Repos
-
-<a href="https://github.com/Eman-mohamed33/SarahahApp" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eman-mohamed33&repo=SarahahApp&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/Eman-mohamed33/SocialMediaApp" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eman-mohamed33&repo=SocialMediaApp&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/Eman-mohamed33/E-CommerceApp" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eman-mohamed33&repo=E-CommerceApp&theme=gruvbox" />
-</a>
 
 ---
 
