@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I’m **Eman Gesraha**, a **Fresh Node.js Backend Developer** passionate about building scalable backend systems, REST APIs, and clean backend architectures.
+I’m **Eman Gesraha**, a **Junior Node.js Backend Developer** passionate about building scalable backend systems, REST APIs, and clean backend architectures.
 
 ---
 
