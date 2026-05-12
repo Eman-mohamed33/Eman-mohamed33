@@ -1,95 +1,52 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+<div align="center">
+  <h1>
+    <a href="https://github.com/Eman-mohamed33">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=F5F5F5&center=true&vCenter=true&height=70&lines=Hi+There%2C+I'm+Eman+👋" alt="Eman Hi" />
+    </a>
+  </h1>
+</div>
 
-I’m **Eman Gesraha**, a **Junior Node.js Backend Developer** passionate about building scalable backend systems, REST APIs, and clean backend architectures.
+<h3 align="center">
+  <a href="https://github.com/Eman-mohamed33">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=3B82F6&vCenter=true&random=false&width=600&height=48&lines=Backend+Developer+|+Node.js+%26+NestJS" alt="Typing SVG" />
+  </a>
+</h3>
+<h3 align="center">
+  <a href="https://github.com/Eman-mohamed33">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=F5F5F5&vCenter=true&random=false&width=610&height=48&lines=Always+learning%2C+Continuously+evolving" alt="Typing SVG" />
+  </a>
+</h3>
 
----
-
-## 🚀💻 Technologies & Tools
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![REST API](https://img.shields.io/badge/REST_API-blue?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square)
-
----
-
-### **Databases & ORMs**
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Sequelize](https://img.shields.io/badge/Sequelize-black?style=flat-square&logo=sequelize)
-![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
+<!-- <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">-->
 
 ---
 
-### **Authentication & Security**
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
-![Authentication](https://img.shields.io/badge/Authentication-green?style=flat-square)
-![Authorization](https://img.shields.io/badge/Authorization-yellow?style=flat-square)
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/eman-gesraha" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eman-gesraha" height="30" width="40" />
+  </a>
+  <a href="mailto:eman.gesraha13@gmail.com">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-### **Development & DevOps**
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+<h3 align="left">🛠️ Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,nodejs,express,nestjs,graphql,mongodb,mysql,redis,docker,git,github,postman&perline=7)](https://github.com/Eman-mohamed33)
 
 ---
 
-### **Programming Concepts & Other**
-![OOP](https://img.shields.io/badge/OOP-lightgrey?style=flat-square)
-![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
+<h2>🚀 Featured Projects:</h2>
 
+| Project | Description | Tech |
+|---|---|---|
+| [🛒 E-commerce App](https://github.com/Eman-mohamed33/E-CommerceApp) | Full-scale e-commerce backend with Stripe payments & Redis caching | NestJS, GraphQL, Socket.io, Redis, Stripe |
+| [💼 Job Search App](https://github.com/Eman-mohamed33/JobSearchApp) | Job platform with real-time HR/Seeker chat & GraphQL admin controls | NestJS, GraphQL, Socket.io, Docker |
 ---
 
-## 📌 Featured Projects
-
-### 🔹 **Saraha App**
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=flat-square&logo=github)](https://github.com/Eman-mohamed33/SarahahApp)
-
-- Anonymous Messaging Platform  
-- Built RESTful APIs using Node.js + Express  
-- Authentication using JWT  
-- MongoDB + Mongoose  
-
----
-
-### 🔹 **Social Media App**
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=flat-square&logo=github)](https://github.com/Eman-mohamed33/SocialMediaApp)
-
-- Users, posts, comments, likes system  
-- Real-time notifications using Socket.IO  
-- Follows / Unfollow  
-- Modular MongoDB backend  
-
----
-
-### 🔹 **E-commerce App**
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?style=flat-square&logo=github)](https://github.com/Eman-mohamed33/E-CommerceApp)
-
----
-
-## 📝 Personal Bio
-
-👩‍💻 I'm a **Fresh Node.js Backend Developer** looking for **internships/training opportunities**.  
-🌱 Currently learning **NestJS**.  
-🚀 Passionate about teamwork & collaboration.  
-💬 Ask me about **Node.js, REST APIs, MySQL, MongoDB**.  
-⚡ Fun fact: I love building clean, maintainable backend systems.
-
----
-
-## 📞 Contact Me
-📧 **Email:** eman.gesraha13@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/eman-gesraha/ 
-
----
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Eman-mohamed33)
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=20&duration=4980&pause=1099&color=F5F5F5&vCenter=true&random=false&width=550&lines=Check+my+Pinned+Repositories+below+⬇️" alt="Typing SVG"/>
+</h4>
