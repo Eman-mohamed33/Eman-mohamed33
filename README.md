@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <a href="https://github.com/Eman-mohamed33">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=F5F5F5&center=true&vCenter=true&height=70&lines=Hi+There%2C+I'm+Eman+👋" alt="Eman Hi" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=F5F5F5&center=true&vCenter=true&height=70&lines=Hi+There%2C+I'm+Eman+" alt="Eman Hi" />
     </a>
   </h1>
 </div>
